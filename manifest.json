@@ -1,0 +1,11 @@
+{
+    "name" :"Calculator-SCI",
+    "version" :"1.0.0",
+    "description" : "This is an Scientific Calculator that works accurately for you",
+    "manifest_version" : 3,
+    
+    "action": {
+        "default_popup" :"index.html",
+        "default_title" :"Calculator-SCI"
+    }
+}
